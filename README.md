@@ -47,6 +47,6 @@
   </div>
   <div>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp logo" />
-    <p>+55 43 99140-9091</p>
+    <p>+55 43 98823-2066</p>
   </div>
 </div>
