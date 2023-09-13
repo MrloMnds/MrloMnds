@@ -1,6 +1,6 @@
 ## Hello 👋, my name is Murilo Mendes and currently I'm:
 
-- ✏️ Frontend Developer, studying on Kenzie Academy Brasil (Full Stack Web Development Course);
+- ✏️ Fullstack Developer;
 - ✨ English/Portuguese Speaker;
 - Dual nationality: Brazilian & Portuguese
 
