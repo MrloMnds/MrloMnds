@@ -1,4 +1,4 @@
-## Hello 👋, my name is Murilo Mendes and currently I'm:
+## Hello 👋, my name is Murilo Mendes and I'm:
 
 - ✏️ Fullstack Developer;
 - ✨ English/Portuguese Speaker;
