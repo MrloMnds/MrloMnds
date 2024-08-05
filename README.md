@@ -1,8 +1,8 @@
-## Hello 👋, my name is Murilo Mendes and I'm:
-
-- ✏️ Fullstack Developer;
-- ✨ English/Portuguese Speaker;
-- Dual nationality: Brazilian & Portuguese
+## Stats & Most used languages
+<div>
+  <img src="https://github-readme-stats-ashen-five-70.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrloMnds&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
 ### Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -18,13 +18,6 @@
 
 ### Terminal:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-## Stats & Most used languages
-
-<div>
-  <img src="https://github-readme-stats-ashen-five-70.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrloMnds&layout=compact&theme=radical&hide_border=true"/>
-</div>
 
 ## Social:
 <div align="left">
