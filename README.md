@@ -22,8 +22,8 @@
 ## Stats & Most used languages
 
 <div>
-  <img align="center" src="https://github-readme-stats-ashen-five-70.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrloMnds&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats-ashen-five-70.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrloMnds&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ## Social:
