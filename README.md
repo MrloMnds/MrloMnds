@@ -1,7 +1,7 @@
 ## Stats & Most used languages
 <div>
   <img src="https://murilo-mendes-github-stats.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true"/>
-  <img src="https://murilo-mendes-github-stats.vercel.app/api/top-langs/?username=MrloMnds&theme=radical&hide_border=true"/>
+  <img src="https://murilo-mendes-github-stats.vercel.app/api/top-langs/?username=MrloMnds&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ### Design:
