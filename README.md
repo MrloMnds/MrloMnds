@@ -1,7 +1,6 @@
 ## Stats & Most used languages
 <div>
   <img src="https://murilo-mendes-github-stats.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true"/>
-  <img src="https://murilo-mendes-github-stats.vercel.app/api/top-langs/?username=MrloMnds&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ### Design:
@@ -36,7 +35,9 @@
     <p>murilol147@gmail.com</p>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp logo" />
+    <a href="https://wa.me/5543988232066">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp logo" />
+    </a>
     <p>+55 43 98823-2066</p>
   </div>
 </div>
