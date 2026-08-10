@@ -1,7 +1,5 @@
 ## Stats & Most used languages
-<div>
-  ![Github Stats](https://github-stats-extended-frontend-mrlomnds-projects.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true)
-</div>
+![Github Stats](https://github-stats-extended-frontend-mrlomnds-projects.vercel.app/api?username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true)
 
 ### Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
