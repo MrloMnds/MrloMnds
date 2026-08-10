@@ -1,7 +1,6 @@
 ## Stats & Most used languages
 <div>
   <img src="./profile/stats.svg" />
-  <img src="./profile/top-langs.svg" />
 </div>
 
 ### Design:
