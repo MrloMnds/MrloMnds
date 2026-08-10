@@ -1,7 +1,5 @@
 ## Stats & Most used languages
-<div>
-  <img src="./profile/stats.svg" />
-</div>
+<img src="./profile/stats.svg" />
 
 ### Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
