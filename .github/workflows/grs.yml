@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage&theme=radical&include_all_commits=true
+          options: username=MrloMnds&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,prs_merged,prs_merged_percentage,prs_commented&bg_color=161616&icon_color=e11d48&title_color=e11d48&text_color=888888&border_color=555555&include_all_commits=true&rank_icon=github&custom_title=How much I've worked so far :D
           path: profile/stats.svg
           token: ${{ secrets.PAT_1 }}
 
