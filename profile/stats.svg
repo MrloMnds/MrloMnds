@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">How much I&#39;ve worked so far :D, Rank: B</title>
-        <desc id="descId">Total Commits  : 804, Total PRs: 594, Total PRs Merged: 546, Merged PRs Percentage: 91.92, Total PRs Reviewed: 109, PRs Commented: 134, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Commits  : 804, Total PRs: 594, Total PRs Merged: 546, Merged PRs Percentage: 91.92, Total PRs Reviewed: 113, PRs Commented: 138, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >109</text>
+      >113</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3AMrloMnds+-author%3AMrloMnds&amp;type=pullrequests">
@@ -237,7 +237,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >134</text></a>
+      >138</text></a>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
