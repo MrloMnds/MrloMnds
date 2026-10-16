@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">How much I&#39;ve worked so far :D, Rank: B</title>
-        <desc id="descId">Total Commits  : 846, Total PRs: 641, Total PRs Merged: 589, Merged PRs Percentage: 91.89, Total PRs Reviewed: 127, PRs Commented: 154, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Commits  : 853, Total PRs: 641, Total PRs Merged: 596, Merged PRs Percentage: 92.98, Total PRs Reviewed: 127, PRs Commented: 154, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 134.55979034928166;
+        stroke-dashoffset: 134.44699594495412;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >846</text>
+      >853</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >589</text>
+      >596</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >91.89 %</text>
+      >92.98 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
